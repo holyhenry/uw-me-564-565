@@ -1,4 +1,6 @@
-# Mechanical Engineering Analysis uw-me-564-565
+# Mechanical Engineering Analysis 
+
+## UW ME564 & ME565
 
 This is a repo for Fall 2022 ME564 & Winter 2023 ME565 course
 

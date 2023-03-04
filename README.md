@@ -1,5 +1,7 @@
 # Mechanical Engineering Analysis 
 
+\textbf{a}
+
 Course material is available online: [ME564](http://faculty.washington.edu/sbrunton/me564/), [ME565](https://faculty.washington.edu/sbrunton/me565/)
 
 A [Youtube Channel](https://www.youtube.com/@Eigensteve) of the instructor - Prof. Steve Brunton 

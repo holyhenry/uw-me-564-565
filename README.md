@@ -1,10 +1,14 @@
 # Mechanical Engineering Analysis 
 
-\textbf{a}
+Instructor: Prof. Steve Brunton 
 
-Course material is available online: [ME564](http://faculty.washington.edu/sbrunton/me564/), [ME565](https://faculty.washington.edu/sbrunton/me565/)
+Textbook: [Advanced Engineering Mathematics, 10th Edition, by E. Kreyszig](https://www.amazon.com/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364)
 
-A [Youtube Channel](https://www.youtube.com/@Eigensteve) of the instructor - Prof. Steve Brunton 
+Textbook2: [DATA-DRIVEN SCIENCE AND ENGINEERING](http://databookuw.com/)
+
+Courses website: [ME564](http://faculty.washington.edu/sbrunton/me564/), [ME565](https://faculty.washington.edu/sbrunton/me565/)
+
+Videos: [Youtube](https://www.youtube.com/@Eigensteve)
 
 ## Useful tools 
 

@@ -6,6 +6,8 @@ Course material is available online: [ME564](http://faculty.washington.edu/sbrun
 
 A [Youtube Channel](https://www.youtube.com/@Eigensteve) of the instructor - Prof. Steve Brunton 
 
-### Useful tools - Converting .ipynb to .PDF
+## Useful tools 
+
+Converting .ipynb to .PDF
 
 `jupyter nbconvert --to webpdf --allow-chromium-download your-notebook-file.ipynb`
